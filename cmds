@@ -1,0 +1,7 @@
+npm i --save @fortawesome/fontawesome-svg-core
+
+npm install @fortawesome/fontawesome-svg-core
+npm install @fortawesome/free-solid-svg-icons
+npm install @fortawesome/react-fontawesome
+yarn add @emailjs/browser
+npm install gh-pages --save-dev
