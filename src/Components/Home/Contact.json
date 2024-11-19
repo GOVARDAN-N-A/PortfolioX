@@ -1,0 +1,32 @@
+[
+    {
+        "icon_name" : "Linkedin",
+        "icon_src" : "./icons/linkedin_logo.gif",
+        "link_src" : "https://www.linkedin.com/in/nagovardan/"
+    },
+    {
+        "icon_name" : "GitHub",
+        "icon_src" : "./icons/github.gif",
+        "link_src" : "https://github.com/GOVARDAN-N-A"
+    },
+    {
+        "icon_name" : "Instagram",
+        "icon_src" : "./icons/instagram_logo.gif",
+        "link_src" : "https://www.instagram.com/govardan.n.a"
+    },
+    {
+        "icon_name" : "Gmail",
+        "icon_src" : "./icons/gmail_logo.gif",
+        "link_src" : "mailto:n.a.govardan2004@gmail.com"
+    },
+    {
+        "icon_name" : "Twitter",
+        "icon_src" : "./icons/twitter.gif",
+        "link_src" : "https://x.com/GOVARDAN_N_A"
+    },
+    {
+        "icon_name" : "Whatsapp",
+        "icon_src" : "./icons/whatsapp.gif",
+        "link_src" : "https://wa.me/919003980804"
+    }
+]

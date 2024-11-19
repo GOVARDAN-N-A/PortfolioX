@@ -1,0 +1,21 @@
+[
+        {
+            "institution": "Bishop Heber Higher Secondary School, Tiruchirappalli, (2018)",
+            "qualification": "SSLC",
+            "year": "2018",
+            "description": "Completed secondary education, demonstrating strong academic performance and a solid foundation in various subjects."
+        },
+        {
+            "institution": "National College Hr. Sec. School, Tiruchirappalli (2019 - 2021)",
+            "qualification": "Pre University",
+            "year": "2019 - 2021",
+            "description": "Excelled in higher secondary education, showcasing advanced knowledge in Physics, Chemistry, and Computer Science."
+        },
+        {
+            "institution": "M.I.E.T Engineering College, Tiruchirappalli (2021 - Present)",
+            "qualification": "University",
+            "year": "2021 - Present",
+            "description": "Gained foundational knowledge in key areas such as Data Structures, Algorithms, Machine Learning, Database, Agile, Computer Networking, Web Development and Object-Oriented Programming (OOP)."
+        }
+    ]
+

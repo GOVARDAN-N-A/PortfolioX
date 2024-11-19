@@ -1,0 +1,39 @@
+[
+    {
+      "image": "/react.png",
+      "title": "Web Development"
+    },
+    {
+      "image": "/python.png",
+      "title": "Python Programming"
+    },
+    {
+      "image": "/ml.png",
+      "title": "Machine Learning"
+    },
+    {
+      "image": "/dataAnalytics.png",
+      "title": "Data Analytics"
+    },
+    {
+      "image": "/uiux.png",
+      "title": "UI/UX Designing"
+    },
+    {
+      "image": "/cn.png",
+      "title": "Computer Networking"
+    },
+    {
+      "image": "/android.png",
+      "title": "Android Development"
+    },
+    {
+      "image": "/java.png",
+      "title": "Java"
+    },
+    {
+      "image": "/mysql.png",
+      "title": "MySQL"
+    }
+  ]
+  

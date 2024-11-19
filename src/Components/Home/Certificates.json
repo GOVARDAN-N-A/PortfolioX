@@ -1,0 +1,26 @@
+[
+    {
+        "certificate_title": "RDBMS using MySQL",
+        "certificate_image": "./Certificates/RDBMS.jpg"
+    },
+    {
+        "certificate_title": "Responsive Web Design",
+        "certificate_image": "./Certificates/Responsive_web_design.jpg"
+    },
+    {
+        "certificate_title": "Computer Netwoking",
+        "certificate_image": "./Certificates/computer_networking.png"
+    },
+    {
+        "certificate_title": "Microsoft Office 365",
+        "certificate_image": "./Certificates/office_365.jpg"
+    },
+    {
+        "certificate_title": "Data Visualization",
+        "certificate_image": "./Certificates/Data Visualization.png"
+    },
+    {
+        "certificate_title": "Advance Python",
+        "certificate_image": "./Certificates/Adv_python.jpeg"
+    }
+]

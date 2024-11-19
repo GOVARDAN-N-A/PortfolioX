@@ -1,0 +1,20 @@
+[
+    {
+        "activity_title": "Workshops",
+        "activity_illustration": "https://img.freepik.com/free-vector/coding-workshop-concept-illustration_114360-8112.jpg",
+        "activity_description": "Completed 'OOPs through Java' Workshop conducted by the Department of Computer Science and Engineering at Sudarshan Engineering College.",
+        "activity_a": "https://maps.app.goo.gl/pk1BVtUx9KoYdrgM8"
+    },
+    {
+        "activity_title": "Value Added Courses",
+        "activity_illustration": "https://img.freepik.com/free-vector/flat-design-online-courses-illustration_52683-37617.jpg",
+        "activity_description": "Completed Value Added Course in 'RDBMS using MySQL' at M.I.E.T. Engineering College.",
+        "activity_a": "https://maps.app.goo.gl/5DRevri6TiSWoRG76"
+    },
+    {
+        "activity_title": "Certifications",
+        "activity_illustration": "https://img.freepik.com/premium-vector/vector-online-certificate-illustration_108061-1558.jpg",
+        "activity_description": "Received certification in 'C and Advanced Python' from T4TEQ Software Solutions.",
+        "activity_a": "https://maps.app.goo.gl/XXufD4cBGLn1ZVbb7"
+    }
+]

@@ -1,0 +1,40 @@
+[
+
+    {
+        "presentation_title": "Hacking Techniques",
+        "presentation_image": "./presentations/ppt_images/Hacking-Techniques.png",
+        "presentation_src" : "https://1drv.ms/p/s!Ai3vw-Cm9GCaklMJ3JZg-EyLwdXm?e=FkLLtF"
+
+    },
+    {
+        "presentation_title": "Networking Protocols",
+        "presentation_image": "./presentations/ppt_images/Rarp_Rip_prot.png",
+        "presentation_src" : "https://1drv.ms/p/s!Ai3vw-Cm9GCaklDlpknj3MOlARnQ?e=nV8tbW"
+
+    },
+    {
+        "presentation_title": "XML",
+        "presentation_image": "./presentations/ppt_images/xml.png",
+        "presentation_src" : "https://1drv.ms/p/s!Ai3vw-Cm9GCakkuYdvBfq--54uWJ?e=G5aZGv"
+
+    },
+    {
+        "presentation_title": "Models of Deadlock",
+        "presentation_image": "./presentations/ppt_images/deadlock.png",
+        "presentation_src" : "https://1drv.ms/p/s!Ai3vw-Cm9GCakkn7H2hAa1_lb66g?e=kt4uVT"
+
+    },
+    {
+        "presentation_title": "Cloud Computing",
+        "presentation_image": "./presentations/ppt_images/Cloud_computing.png",
+        "presentation_src" : "https://1drv.ms/p/s!Ai3vw-Cm9GCakkh-JlC5RO-poZQJ?e=bqjhz4"
+
+    },
+    {
+        "presentation_title": "Medicine Remainder",
+        "presentation_image": "./presentations/ppt_images/hrs.png",
+        "presentation_src" : "https://1drv.ms/p/s!Ai3vw-Cm9GCakkq_QQZS8-Fk2Pls?e=kBwO82"
+
+    }
+
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "company_title": "Implant Trainee, Lenovo India Pvt. Ltd., Pondicherry",
+        "exp_duration": "Sep 2024 - Oct 2024",
+        "exp_description": [ 
+            "Tested and analyzed various hardware components, identified defects, optimized troubleshooting processes, and improved test efficiency by 15%.",
+            "Reported defects, reducing troubleshooting time by 20%."
+        ]
+    },
+    {
+        "company_title": "Android Developer Intern, Quadriga Software Pvt. Ltd., Tiruchirappalli",
+        "exp_duration": "Jul 2024 - Aug 2024",
+        "exp_description": [
+            "Led a mini-project on Android weather application development, using Kotlin to implement key features such as location-based weather updates, API integration, and data visualization.",
+            "Enhanced UI/UX with responsive design, integrating various weather animations based on real-time data, improving user engagement by 25%.",
+            "Collaborated with a cross-functional team to troubleshoot and resolve issues, reducing bug resolution time by 30% and increasing app performance."
+        ]
+    },
+    {
+        "company_title": "Talent Representative Intern, VDart Inc., Tiruchirappalli",
+        "exp_duration": "Dec 2023 - Mar 2024",
+        "exp_description": [
+            "Managed data for projects and collaborated with 5+ brands, ensuring 100% on-time reporting.",
+            "Successfully coordinated with clients, maintaining effective communication and resolving issues promptly."
+        ]
+    }
+]
