@@ -1,6 +1,7 @@
 
+---
 
-# 🚀 **PortfolioX** - React + Vite 🌟
+# 🚀 PortfolioX - React + Vite 🌟
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -18,10 +19,10 @@
 - ⚡ **Fast Refresh**: Powered by [Vite](https://vitejs.dev/) and [React](https://reactjs.org/).
 - 🎨 **Modern UI**: Styled with Material-UI and custom CSS.
 - 🛠️ **Dynamic Sections**:
-  - 📖 **About Me**
-  - 🏆 **Resume** (Experience, Education, Activities, Certifications)
-  - 💼 **Portfolio** (Projects, Presentations)
-  - 🌍 **Contact** (Social Media, Location)
+  - 📖 About Me
+  - 🏆 Resume (Experience, Education, Activities, Certifications)
+  - 💼 Portfolio (Projects, Presentations)
+  - 🌍 Contact (Social Media, Location)
 - 📧 **Contact Form**: Integrated with [EmailJS](https://www.emailjs.com/) to send messages directly.
 - 📍 **Interactive Map**: Embed your location with Google Maps.
 
@@ -32,7 +33,7 @@
 ```plaintext
 PortfolioX/
 ├── public/            # Static assets (e.g., images, icons)
-├── src/                # React components used in the app
+├── src/               
 │   ├── Components/    # React components used in the app
 │   │   ├── Home/      # Main homepage logic and UI
 │   │   │   ├── Home.jsx
@@ -48,6 +49,24 @@ PortfolioX/
 └── vite.config.js     # Vite configuration
 ```
 
+---
+
+## ✨ **Screenshots**
+
+### 🔹 **Home Section**
+![Home Section](https://via.placeholder.com/800x400?text=Home+Section)
+
+### 🔹 **Resume Section**
+![Resume Section](https://via.placeholder.com/800x400?text=Resume+Section)
+
+### 🔹 **Portfolio Section**
+![Portfolio Section](https://via.placeholder.com/800x400?text=Portfolio+Section)
+
+### 🔹 **Contact Section**
+![Contact Section](https://via.placeholder.com/800x400?text=Contact+Section)
+
+---
+
 ## 🛠️ **Setup & Installation**
 
 ### Prerequisites:
@@ -58,7 +77,7 @@ PortfolioX/
 
 1. **Clone the Repository** 🖇️:
    ```bash
-   git clone https://github.com/yourusername/PortfolioX.git
+   git clone [https://github.com/yourusername/PortfolioX.git](https://github.com/GOVARDAN-N-A/PortfolioX)
    cd PortfolioX
    ```
 
@@ -94,7 +113,7 @@ Rich UI elements like **Cards**, **Grids**, and **Typography** are crafted with 
 
 ## 🌐 **Live Demo**
 
-🚀 **[View Live Demo]([https://portfolionag.netlify.app/])**
+🚀 **[View Live Demo]([https://your-portfolio-link.com](https://portfolionag.netlify.app/))**
 
 ---
 
@@ -127,9 +146,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 🌟 **Author**
 
-👤 **[GOVARDAN N A](https://github.com/GOVARDAN-N-A/)**  
-💼 [nagovardan](https://www.linkedin.com/in/nagovardan/) 
-
+👤 **[GOVARDAN N A](https://github.com/GOVARDAN-N-A)**  
+💼 [nagovardan]([https://linkedin.com/in/yourprofile](https://portfolionag.netlify.app/)) | 
 ---
 
 ## 🛠️ **Tech Stack**
@@ -148,6 +166,7 @@ Have suggestions or feedback? Feel free to reach out via the contact form or ope
 
 ---
 
-> Made with ❤️ by **[GOVARDAN N A](https://github.com/GOVARDAN-N-A/)**.
-```
+> Made with ❤️ by **[Your Name](https://github.com/GOVARDAN-N-A)**.
+
+---
 
