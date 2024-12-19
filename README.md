@@ -113,7 +113,8 @@ Rich UI elements like **Cards**, **Grids**, and **Typography** are crafted with 
 
 ## 🌐 **Live Demo**
 
-🚀 **[View Live Demo](https://portfolionag.netlify.app/{:target="_blank"})**
+🚀 <a href="https://portfolionag.netlify.app/" target="_blank">View Live Demo</a>
+
 
 ---
 
