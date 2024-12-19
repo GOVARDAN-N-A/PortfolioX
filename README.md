@@ -29,6 +29,7 @@
 
 ## 🗂️ **Project Structure**
 
+```plaintext
 PortfolioX/
 ├── public/            # Static assets (e.g., images, icons)
 ├── src/                # React components used in the app
