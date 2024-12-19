@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🚀 **PortfolioX** - React + Vite 🌟
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -29,7 +29,6 @@
 
 ## 🗂️ **Project Structure**
 
-```plaintext
 PortfolioX/
 ├── public/            # Static assets (e.g., images, icons)
 ├── src/                # React components used in the app
@@ -47,24 +46,6 @@ PortfolioX/
 ├── package.json       # Dependencies and scripts
 └── vite.config.js     # Vite configuration
 ```
-
----
-
-## ✨ **Screenshots**
-
-### 🔹 **Home Section**
-![Home Section](https://via.placeholder.com/800x400?text=Home+Section)
-
-### 🔹 **Resume Section**
-![Resume Section](https://via.placeholder.com/800x400?text=Resume+Section)
-
-### 🔹 **Portfolio Section**
-![Portfolio Section](https://via.placeholder.com/800x400?text=Portfolio+Section)
-
-### 🔹 **Contact Section**
-![Contact Section](https://via.placeholder.com/800x400?text=Contact+Section)
-
----
 
 ## 🛠️ **Setup & Installation**
 
@@ -112,7 +93,7 @@ Rich UI elements like **Cards**, **Grids**, and **Typography** are crafted with 
 
 ## 🌐 **Live Demo**
 
-🚀 **[View Live Demo](https://your-portfolio-link.com)**
+🚀 **[View Live Demo]([https://your-portfolio-link.com](https://portfolionag.netlify.app/))**
 
 ---
 
@@ -145,8 +126,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 🌟 **Author**
 
-👤 **[Your Name](https://github.com/yourusername)**  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐦 [Twitter](https://twitter.com/yourhandle) | 📷 [Instagram](https://instagram.com/yourprofile)
+👤 **[Your Name](https://github.com/GOVARDAN-N-A/)**  
+💼 [LinkedIn](https://www.linkedin.com/in/nagovardan/) 
 
 ---
 
@@ -166,6 +147,6 @@ Have suggestions or feedback? Feel free to reach out via the contact form or ope
 
 ---
 
-> Made with ❤️ by **[Your Name](https://github.com/yourusername)**.
+> Made with ❤️ by **[Your Name](https://github.com/GOVARDAN-N-A/)**.
 ```
 
