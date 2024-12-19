@@ -94,7 +94,7 @@ Rich UI elements like **Cards**, **Grids**, and **Typography** are crafted with 
 
 ## 🌐 **Live Demo**
 
-🚀 **[View Live Demo]([https://your-portfolio-link.com](https://portfolionag.netlify.app/))**
+🚀 **[View Live Demo]([https://portfolionag.netlify.app/])**
 
 ---
 
@@ -127,8 +127,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 🌟 **Author**
 
-👤 **[Your Name](https://github.com/GOVARDAN-N-A/)**  
-💼 [LinkedIn](https://www.linkedin.com/in/nagovardan/) 
+👤 **[GOVARDAN N A](https://github.com/GOVARDAN-N-A/)**  
+💼 [nagovardan](https://www.linkedin.com/in/nagovardan/) 
 
 ---
 
@@ -148,6 +148,6 @@ Have suggestions or feedback? Feel free to reach out via the contact form or ope
 
 ---
 
-> Made with ❤️ by **[Your Name](https://github.com/GOVARDAN-N-A/)**.
+> Made with ❤️ by **[GOVARDAN N A](https://github.com/GOVARDAN-N-A/)**.
 ```
 
