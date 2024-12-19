@@ -91,7 +91,7 @@ PortfolioX/
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser. 🌐
+4. Open [http://localhost:5173](http://localhost:5173){:target="_blank"} in your browser. 🌐
 
 ---
 
@@ -107,13 +107,13 @@ JSON files (e.g., `Experience.json`, `Projects.json`) power the dynamic content 
 The contact form uses EmailJS to send emails without needing a backend.
 
 ### 🎨 **Material-UI Components**
-Rich UI elements like **Cards**, **Grids**, and **Typography** are crafted with [Material-UI](https://mui.com/).
+Rich UI elements like **Cards**, **Grids**, and **Typography** are crafted with [Material-UI](https://mui.com/){:target="_blank"}.
 
 ---
 
 ## 🌐 **Live Demo**
 
-🚀 **[View Live Demo](https://portfolionag.netlify.app/)**
+🚀 **[View Live Demo](https://portfolionag.netlify.app/){:target="_blank"}**
 
 ---
 
@@ -146,8 +146,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 🌟 **Author**
 
-👤 **[GOVARDAN N A](https://github.com/GOVARDAN-N-A)**  
-💼 **[nagovardan](https://www.linkedin.com/in/nagovardan/)** 
+👤 **[GOVARDAN N A](https://github.com/GOVARDAN-N-A){:target="_blank"}**  
+💼 **[nagovardan](https://www.linkedin.com/in/nagovardan/){:target="_blank"}** 
 ---
 
 ## 🛠️ **Tech Stack**
@@ -166,7 +166,7 @@ Have suggestions or feedback? Feel free to reach out via the contact form or ope
 
 ---
 
-> Made with ❤️ by **[GOVARDAN N A](https://github.com/GOVARDAN-N-A)**.
+> Made with ❤️ by **[GOVARDAN N A](https://github.com/GOVARDAN-N-A){:target="_blank"}**.
 
 ---
 
